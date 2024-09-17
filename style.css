@@ -1,5 +1,32 @@
+/* CSS HEX */
+
+
+/* --nyanza: #d3f8e2ff;
+--mauve: #e4c1f9ff;
+--amaranth-pink: #f694c1ff;
+--vanilla: #ede7b1ff;
+--uranian-blue: #a9def9ff; 
+https://coolors.co/palette/d3f8e2-e4c1f9-f694c1-ede7b1-a9def9
+*/
+
+
+body{
+    background-color: #E4C1F9;
+    color: #3c096c;
+}
+
 img{
-    width: 300px;
-    border: 2px solid rgb(99, 169, 234); 
+    width: 400px;
+    border: 2px solid #6d597a; 
     border-radius: 10px;
 }
+
+h1{
+    color: rgb(21, 4, 58);
+}
+ h2{
+    color: rgb(0, 0, 0);
+ } 
+ h3{
+    color: black;
+ }
